@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243195545476",
+    "firebase_url": "https://aksfirebase2.firebaseio.com",
+    "project_id": "aksfirebase2",
+    "storage_bucket": "aksfirebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243195545476:android:a80ea488f9b39f7dbfbfd1",
+        "android_client_info": {
+          "package_name": "com.aks07.firebase_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243195545476-sog9d61j3gpnbtu486fsv5dlea7mrpqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZnPbiJWhfJalu64lKAtlGNChoRXJSAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243195545476-sog9d61j3gpnbtu486fsv5dlea7mrpqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
